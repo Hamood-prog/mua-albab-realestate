@@ -1,0 +1,18 @@
+{
+  "id": "./index.html",
+  "name": "الباحث العقاري - دائرة المصالح العقارية بالباب",
+  "short_name": "الباحث العقاري",
+  "description": "نظام البحث العقاري المحلي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f6fc",
+  "theme_color": "#123b35",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
